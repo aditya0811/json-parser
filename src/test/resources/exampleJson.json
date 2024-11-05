@@ -1,0 +1,19 @@
+{
+  "name" : "Daniil Medvedev",
+  "weight" : 80.757657567,
+  "titles" : ["Nitto ATP 2020", "US OPEN 2021"],
+  "grand_slam_winner" : true,
+  "highest_ranking" : 1,
+  "weight" : 324.42342,
+  "number_of_seconds_played" : 23111111,
+  "endorsements" : [
+    {
+      "category" : "apparel",
+      "number_of_years" : 3
+    },
+    {
+      "category" : "racquet",
+      "number_of_years" : 6
+    }
+  ]
+}
